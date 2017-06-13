@@ -1,9 +1,9 @@
 # Adeliya Yuliani
 Mahasiswa Ilmu Komputer
 
-*Asrama PPKU TPB IPB\
-+62 812-9841-4131\
-<adeliya.yuliani@gmail.com>*
+*Asrama PPKU TPB IPB<br>
++62 812-9841-4131<br>
+adeliya.yuliani@gmail.com*
 
 ## Pendidikan
 
