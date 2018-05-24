@@ -26,8 +26,6 @@ Juni 2010 - April 2013
 
 ## Keahlian
 
-&mdash;
-
 - Game Designer
 - Mahir menggunakan bahasa C
 
